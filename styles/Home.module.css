@@ -108,6 +108,26 @@
   margin-left: 0.5rem;
 }
 
+.tag {
+  height: auto;
+  padding: 2px;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: white;
+  background-color: green;
+  text-align: center;
+}
+
+.category {
+  text-align: center;
+  height: auto;
+  padding: 2px;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  background-color: yellow;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
